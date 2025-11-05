@@ -1,0 +1,50 @@
+Counter Settings
+Prescaler (PSC - 16 bits value): 0
+
+Counter Mode: Up
+
+Counter Period (AutoReload Regis.): 65535
+
+Internal Clock Division (CKD): No Division
+
+auto-reload preload: Disable
+
+
+
+ Trigger Output (TRGO) Parameters
+Master/Slave Mode (MSM bit): Disable (Trigger input effect not delayed)
+
+Trigger Event Selection: Reset (UG bit from TIMx_EGR)
+
+
+
+ PWM Generation Channel 1
+Mode: PWM mode 1
+
+Pulse (16 bits value): 0
+
+Output compare preload: Enable
+
+Fast Mode: Disable
+
+CH Polarity: High
+
+-------
+
+
+System Parameters
+VDD voltage (V): 3.3 V
+
+Prefetch Buffer: Enabled
+
+Flash Latency (WS): 2 WS (3 CPU cycle)
+
+
+
+
+RCC Parameters
+HSI Calibration Value: 16
+
+HSE Startup Timeout Value (ms): 100
+
+LSE Startup Timeout Value (ms): 5000
