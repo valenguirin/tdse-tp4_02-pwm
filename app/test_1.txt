@@ -1,3 +1,2 @@
-La señal observada no es cuadrada, sino que se acerca a serlo. Esto es debido al ruido. Los valores a continuación son estimaciones basadas en lo que muestra el osciloscopio.
-Período = 20ms. Se modifica, producto del ruido.
-Duty cycle = 10ms. Se modifica, producto del ruido.
+Período de la señal es de 1 milisegundo y el duty cycle varía entre 0 y 1 milisegundo.
+La intensidad del LED sí varía, más brillo a medida que aumenta el duty cycle.
